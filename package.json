@@ -1,0 +1,12 @@
+{
+  "name": "red-black-pro-v5",
+  "version": "5.0.0",
+  "description": "Red Black Pro V5 - prediction and analytics dashboard",
+  "main": "server.cjs",
+  "scripts": {
+    "start": "node server.cjs"
+  },
+  "dependencies": {
+    "puppeteer": "^24.0.0"
+  }
+}
